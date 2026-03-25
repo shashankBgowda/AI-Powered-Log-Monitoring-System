@@ -1,0 +1,10 @@
+2026-03-23 10:08:01 INFO systemd Started Session 124 of user ubuntu
+2026-03-23 10:08:05 WARNING kernel Disk I/O latency detected
+2026-03-23 10:08:10 ERROR sshd Connection closed by authenticating user root
+2026-03-23 10:08:15 INFO cron Scheduled job 'cleanup.sh' executed
+2026-03-23 10:08:20 WARNING kernel Memory pressure high
+2026-03-23 10:08:25 ERROR systemd Failed to start nginx service
+2026-03-23 10:08:30 INFO systemd Restarted nginx service
+2026-03-23 10:08:35 WARNING kernel Swap usage exceeded threshold
+2026-03-23 10:08:40 INFO sshd Accepted password for user dev
+2026-03-23 10:08:45 ERROR kernel Out of memory: Kill process 1234 (java)

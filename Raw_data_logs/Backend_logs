@@ -1,0 +1,10 @@
+2026-03-23 10:12:01 INFO api GET /profile 200 response_time=110ms
+2026-03-23 10:12:05 ERROR api POST /checkout 502 response_time=520ms
+2026-03-23 10:12:10 WARNING api Rate limit exceeded endpoint=/login
+2026-03-23 10:12:15 INFO api GET /products 200 response_time=95ms
+2026-03-23 10:12:20 ERROR api PUT /user 500 response_time=400ms
+2026-03-23 10:12:25 WARNING api Slow response endpoint=/orders
+2026-03-23 10:12:30 INFO api DELETE /cart 200 response_time=80ms
+2026-03-23 10:12:35 ERROR api GET /search 503 response_time=600ms
+2026-03-23 10:12:40 INFO api POST /login 200 response_time=130ms
+2026-03-23 10:12:45 WARNING api High latency detected endpoint=/payment

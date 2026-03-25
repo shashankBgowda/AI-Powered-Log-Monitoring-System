@@ -1,0 +1,10 @@
+2026-03-23 10:10:01 INFO docker Pulling image nginx:latest
+2026-03-23 10:10:05 WARNING docker Image pull slow network detected
+2026-03-23 10:10:10 ERROR docker Failed to pull image redis:latest
+2026-03-23 10:10:15 INFO docker Container stopped container_id=abc123
+2026-03-23 10:10:20 INFO docker Container removed container_id=abc123
+2026-03-23 10:10:25 WARNING docker CPU usage high container_id=xyz789
+2026-03-23 10:10:30 ERROR docker Container killed due to OOM container_id=xyz789
+2026-03-23 10:10:35 INFO docker Creating container container_id=def456
+2026-03-23 10:10:40 INFO docker Container started container_id=def456
+2026-03-23 10:10:45 WARNING docker Disk space low on host

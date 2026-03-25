@@ -1,0 +1,10 @@
+2026-03-23 10:11:01 INFO k8s Pod scheduled pod_name=payment-service-abc
+2026-03-23 10:11:05 WARNING k8s Node memory pressure node=node1
+2026-03-23 10:11:10 ERROR k8s Pod eviction pod_name=analytics-service
+2026-03-23 10:11:15 INFO k8s Deployment updated deployment=frontend
+2026-03-23 10:11:20 WARNING k8s Liveness probe failed pod_name=auth-service
+2026-03-23 10:11:25 ERROR k8s Image pull backoff pod_name=backend-service
+2026-03-23 10:11:30 INFO k8s Horizontal scaling triggered replicas=7
+2026-03-23 10:11:35 WARNING k8s High CPU usage node=node2
+2026-03-23 10:11:40 INFO k8s Pod terminated pod_name=cache-service
+2026-03-23 10:11:45 ERROR k8s Failed scheduling pod_name=ml-service

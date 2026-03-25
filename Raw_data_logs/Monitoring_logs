@@ -1,0 +1,10 @@
+2026-03-23 10:14:01 INFO metrics CPU usage 78% instance=server2
+2026-03-23 10:14:05 WARNING metrics Memory usage 95% instance=server3
+2026-03-23 10:14:10 ERROR metrics Node down instance=server4
+2026-03-23 10:14:15 INFO metrics Disk usage 70% instance=server1
+2026-03-23 10:14:20 WARNING metrics High network latency instance=server2
+2026-03-23 10:14:25 ERROR metrics Service unavailable instance=server3
+2026-03-23 10:14:30 INFO metrics Request rate 1200rps instance=api-server
+2026-03-23 10:14:35 WARNING metrics Packet loss detected instance=server5
+2026-03-23 10:14:40 ERROR metrics CPU throttling detected instance=server2
+2026-03-23 10:14:45 INFO metrics Uptime 99.99% instance=server1

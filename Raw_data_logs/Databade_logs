@@ -1,0 +1,10 @@
+2026-03-23 10:13:01 INFO db Connection pool initialized
+2026-03-23 10:13:05 WARNING db Slow query detected query=SELECT * FROM users
+2026-03-23 10:13:10 ERROR db Deadlock detected transaction_id=TX999
+2026-03-23 10:13:15 INFO db Index created table=orders
+2026-03-23 10:13:20 WARNING db High connection usage
+2026-03-23 10:13:25 ERROR db Connection refused host=db-server
+2026-03-23 10:13:30 INFO db Backup completed successfully
+2026-03-23 10:13:35 WARNING db Replication lag detected
+2026-03-23 10:13:40 ERROR db Disk write failure
+2026-03-23 10:13:45 INFO db Transaction rollback completed
