@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:10:01",
+        "level": "INFO",
+        "message": "docker Pulling image nginx:latest"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:05",
+        "level": "WARNING",
+        "message": "docker Image pull slow network detected"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:10",
+        "level": "ERROR",
+        "message": "docker Failed to pull image redis:latest"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:15",
+        "level": "INFO",
+        "message": "docker Container stopped container_id=abc123"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:20",
+        "level": "INFO",
+        "message": "docker Container removed container_id=abc123"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:25",
+        "level": "WARNING",
+        "message": "docker CPU usage high container_id=xyz789"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:30",
+        "level": "ERROR",
+        "message": "docker Container killed due to OOM container_id=xyz789"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:35",
+        "level": "INFO",
+        "message": "docker Creating container container_id=def456"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:40",
+        "level": "INFO",
+        "message": "docker Container started container_id=def456"
+    },
+    {
+        "timestamp": "2026-03-23 10:10:45",
+        "level": "WARNING",
+        "message": "docker Disk space low on host"
+    }
+]

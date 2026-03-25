@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:13:01",
+        "level": "INFO",
+        "message": "db Connection pool initialized"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:05",
+        "level": "WARNING",
+        "message": "db Slow query detected query=SELECT * FROM users"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:10",
+        "level": "ERROR",
+        "message": "db Deadlock detected transaction_id=TX999"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:15",
+        "level": "INFO",
+        "message": "db Index created table=orders"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:20",
+        "level": "WARNING",
+        "message": "db High connection usage"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:25",
+        "level": "ERROR",
+        "message": "db Connection refused host=db-server"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:30",
+        "level": "INFO",
+        "message": "db Backup completed successfully"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:35",
+        "level": "WARNING",
+        "message": "db Replication lag detected"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:40",
+        "level": "ERROR",
+        "message": "db Disk write failure"
+    },
+    {
+        "timestamp": "2026-03-23 10:13:45",
+        "level": "INFO",
+        "message": "db Transaction rollback completed"
+    }
+]

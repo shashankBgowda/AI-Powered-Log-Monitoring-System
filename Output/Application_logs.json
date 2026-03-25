@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:09:01",
+        "level": "INFO",
+        "message": "app User logout successful user_id=101"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:05",
+        "level": "ERROR",
+        "message": "app Payment gateway timeout transaction_id=TX456"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:10",
+        "level": "WARNING",
+        "message": "app Invalid input received endpoint=/signup"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:15",
+        "level": "INFO",
+        "message": "app Product viewed product_id=PRD123"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:20",
+        "level": "ERROR",
+        "message": "app Failed to send email notification user_id=202"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:25",
+        "level": "INFO",
+        "message": "app Cart updated user_id=303"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:30",
+        "level": "WARNING",
+        "message": "app Session expired user_id=404"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:35",
+        "level": "INFO",
+        "message": "app Password reset requested user_id=505"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:40",
+        "level": "ERROR",
+        "message": "app Unexpected null pointer exception module=checkout"
+    },
+    {
+        "timestamp": "2026-03-23 10:09:45",
+        "level": "INFO",
+        "message": "app Review submitted product_id=PRD456"
+    }
+]

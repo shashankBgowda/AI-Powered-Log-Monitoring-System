@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:08:01",
+        "level": "INFO",
+        "message": "systemd Started Session 124 of user ubuntu"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:05",
+        "level": "WARNING",
+        "message": "kernel Disk I/O latency detected"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:10",
+        "level": "ERROR",
+        "message": "sshd Connection closed by authenticating user root"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:15",
+        "level": "INFO",
+        "message": "cron Scheduled job 'cleanup.sh' executed"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:20",
+        "level": "WARNING",
+        "message": "kernel Memory pressure high"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:25",
+        "level": "ERROR",
+        "message": "systemd Failed to start nginx service"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:30",
+        "level": "INFO",
+        "message": "systemd Restarted nginx service"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:35",
+        "level": "WARNING",
+        "message": "kernel Swap usage exceeded threshold"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:40",
+        "level": "INFO",
+        "message": "sshd Accepted password for user dev"
+    },
+    {
+        "timestamp": "2026-03-23 10:08:45",
+        "level": "ERROR",
+        "message": "kernel Out of memory: Kill process 1234 (java)"
+    }
+]

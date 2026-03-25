@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:12:01",
+        "level": "INFO",
+        "message": "api GET /profile 200 response_time=110ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:05",
+        "level": "ERROR",
+        "message": "api POST /checkout 502 response_time=520ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:10",
+        "level": "WARNING",
+        "message": "api Rate limit exceeded endpoint=/login"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:15",
+        "level": "INFO",
+        "message": "api GET /products 200 response_time=95ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:20",
+        "level": "ERROR",
+        "message": "api PUT /user 500 response_time=400ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:25",
+        "level": "WARNING",
+        "message": "api Slow response endpoint=/orders"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:30",
+        "level": "INFO",
+        "message": "api DELETE /cart 200 response_time=80ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:35",
+        "level": "ERROR",
+        "message": "api GET /search 503 response_time=600ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:40",
+        "level": "INFO",
+        "message": "api POST /login 200 response_time=130ms"
+    },
+    {
+        "timestamp": "2026-03-23 10:12:45",
+        "level": "WARNING",
+        "message": "api High latency detected endpoint=/payment"
+    }
+]

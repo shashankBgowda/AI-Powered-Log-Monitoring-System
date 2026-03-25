@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:14:01",
+        "level": "INFO",
+        "message": "metrics CPU usage 78% instance=server2"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:05",
+        "level": "WARNING",
+        "message": "metrics Memory usage 95% instance=server3"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:10",
+        "level": "ERROR",
+        "message": "metrics Node down instance=server4"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:15",
+        "level": "INFO",
+        "message": "metrics Disk usage 70% instance=server1"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:20",
+        "level": "WARNING",
+        "message": "metrics High network latency instance=server2"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:25",
+        "level": "ERROR",
+        "message": "metrics Service unavailable instance=server3"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:30",
+        "level": "INFO",
+        "message": "metrics Request rate 1200rps instance=api-server"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:35",
+        "level": "WARNING",
+        "message": "metrics Packet loss detected instance=server5"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:40",
+        "level": "ERROR",
+        "message": "metrics CPU throttling detected instance=server2"
+    },
+    {
+        "timestamp": "2026-03-23 10:14:45",
+        "level": "INFO",
+        "message": "metrics Uptime 99.99% instance=server1"
+    }
+]

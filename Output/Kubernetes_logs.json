@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-23 10:11:01",
+        "level": "INFO",
+        "message": "k8s Pod scheduled pod_name=payment-service-abc"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:05",
+        "level": "WARNING",
+        "message": "k8s Node memory pressure node=node1"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:10",
+        "level": "ERROR",
+        "message": "k8s Pod eviction pod_name=analytics-service"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:15",
+        "level": "INFO",
+        "message": "k8s Deployment updated deployment=frontend"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:20",
+        "level": "WARNING",
+        "message": "k8s Liveness probe failed pod_name=auth-service"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:25",
+        "level": "ERROR",
+        "message": "k8s Image pull backoff pod_name=backend-service"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:30",
+        "level": "INFO",
+        "message": "k8s Horizontal scaling triggered replicas=7"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:35",
+        "level": "WARNING",
+        "message": "k8s High CPU usage node=node2"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:40",
+        "level": "INFO",
+        "message": "k8s Pod terminated pod_name=cache-service"
+    },
+    {
+        "timestamp": "2026-03-23 10:11:45",
+        "level": "ERROR",
+        "message": "k8s Failed scheduling pod_name=ml-service"
+    }
+]
