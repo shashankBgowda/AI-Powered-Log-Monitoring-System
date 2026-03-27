@@ -107,5 +107,41 @@ Output/
 ==================================================
 ---------------------------------------------------------PHASE-2-----------------------------------------------------------------
 
+What This Phase Does
+Converts log messages into vector embeddings
+Stores embeddings along with logs
+Enables semantic search (finding similar logs based on meaning)
+🧠 Key Concept
+Embeddings: Numerical representation of text
+Similar logs → similar vectors → better search & analysis
+🧱 Project Structure
+vector_db/
+  ├── embed.py
+  ├── store.py
+  ├── query.py
+  └── main.py
+🔄 Data Flow
+processed_logs.json → embeddings → stored data → similarity search
+▶️ How to Run
+cd vector_db
+python main.py
+📤 Output
+Generates embeddings for each log
+Returns most similar logs for a given query
+
+Example:
+
+Query: "database error"
+
+Result:
+- "Connection timeout in DB"
+- "Query execution failed"
+🚀 Why This Matters
+
+This phase enables:
+
+Intelligent log search
+Faster debugging
+Foundation for anomaly detection (next phase)
 
 
